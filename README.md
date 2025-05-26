@@ -4,7 +4,7 @@
 This project is from my Django + React Learn from udemy
 
 
-![DEMO](../master/static/images/proshop_django_demo.png)
+![DEMO](backend/static/images/proshop_django_demo.png)
 
 
 # Features
